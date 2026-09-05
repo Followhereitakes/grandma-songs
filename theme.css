@@ -1,0 +1,7 @@
+/* 绢本工笔主题：清晰、克制、留白 */
+body{color:#293d36;background:#f2e9d8}
+body:before{opacity:.28;background:radial-gradient(ellipse at 7% 15%,#a6bca72a 0 10%,transparent 29%),radial-gradient(ellipse at 95% 72%,#8da9ad24 0 9%,transparent 27%),repeating-linear-gradient(92deg,transparent 0 13px,#736d5909 14px 14.5px);mix-blend-mode:multiply}
+.topbar{color:#f6efdf}.hero-photo{background:linear-gradient(90deg,#17362faa 0%,#17362f50 38%,transparent 72%),url('covers/001-两地曲.jpg') center 38%/cover no-repeat;filter:none}.hero:after{background:linear-gradient(transparent,#f2e9d8)}.hero h1{color:#fffaf0;text-shadow:0 3px 24px #102c25aa}.eyebrow,.hero .sub,.enter{color:#fffaf0}
+.intro p{color:#344c43}.intro small{color:#668075}.intro-mark{color:#567d6d}.gallery-head,.list-title:after,.song-row,.footer{border-color:#314b4130}
+.work{background:#d8d0be;border-color:#9b825348;box-shadow:0 18px 45px #4a46351c}.work img{filter:saturate(.92) contrast(1.02)}.work:hover img,.work.active img{filter:saturate(1) contrast(1.02)}.work:after{background:linear-gradient(transparent 52%,#102b25d8)}.work p{color:#eee4d2}.play-mark{background:#f5ecdaea;color:#29443b;border-color:#a4864d}.work.active .play-mark{color:white}
+.song-row:hover,.song-row.active{background:#567d6d10}.song-row button{color:#31584a}.song-row time{color:#6e7e75}.footer{color:#687d73}.player{color:#f2e9d8;background:#15342eef;border-color:#c8a96b55;box-shadow:0 15px 50px #2c392b55}
